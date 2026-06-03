@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XSIP-Builder v17.3.1 | XyncAgent.ai Agentic Surface</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; max-width: 800px; }
+        h1 { color: #0d6efd; }
+        ul { list-style: none; padding: 0; }
+        li { margin: 12px 0; }
+        a { color: #0d6efd; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .note { background: #f8f9fa; padding: 15px; border-radius: 6px; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <h1>XSIP-Builder v17.3.1</h1>
+    <p><strong>XyncAgent.ai</strong> — Governed Agentic Surface</p>
+    <p>This repository hosts the official discovery files for the <strong>XSIP v17.3.1 Information Gain Protocol</strong>.</p>
+
+    <div class="note">
+        <strong>Official Discovery Files:</strong>
+    </div>
+
+    <ul>
+        <li><a href="llms.txt">llms.txt</a> — Full instructions for AI agents and LLMs</li>
+        <li><a href="ai.txt">ai.txt</a> — Concise AI-specific instructions</li>
+        <li><a href="manifest.json">manifest.json</a> — Structured protocol manifest</li>
+        <li><a href="ai-wellknown.json">ai-wellknown.json</a> — Well-known AI metadata</li>
+    </ul>
+
+    <p><strong>Main Website:</strong> <a href="https://www.xyncagent.ai">https://www.xyncagent.ai</a></p>
+    <p><strong>Protocol Version:</strong> XSIP v17.3.1</p>
+
+    <hr>
+    <p style="font-size: 0.9em; color: #666;">
+        Last Updated: 2026-06-03<br>
+        Maintained by: XyncAgent.ai — Ray W
+    </p>
+</body>
+</html>
+
