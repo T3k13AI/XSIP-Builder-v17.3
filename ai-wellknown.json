@@ -1,0 +1,35 @@
+{
+  "name": "XyncAgent.ai Agentic Surface",
+  "short_name": "XyncAgent",
+  "version": "XSIP v17.3.1",
+  "description": "Governed agentic surface for XSIP v17.3.1 Information Gain Protocol. Delivers mandatory ≥0.72 Information Gain scoring, 6-phase workflow with reflection loops, and 40-80 word AIO blocks.",
+  "protocol": {
+    "name": "XSIP",
+    "version": "17.3.1",
+    "enforcement": "Mandatory Information Gain scoring ≥ 0.72 with reflection loops until threshold met",
+    "workflow": [
+      "Understand",
+      "Plan",
+      "Execute",
+      "Aggregate",
+      "Reflect (mandatory until ≥0.72)",
+      "Synthesize"
+    ]
+  },
+  "discovery_files": {
+    "llms_txt": "https://t3k13ai.github.io/XSIP-Builder-v17.3/llms.txt",
+    "ai_txt": "https://t3k13ai.github.io/XSIP-Builder-v17.3/ai.txt",
+    "manifest_json": "https://t3k13ai.github.io/XSIP-Builder-v17.3/manifest.json",
+    "ai_wellknown_json": "https://t3k13ai.github.io/XSIP-Builder-v17.3/ai-wellknown.json"
+  },
+  "canonical_site": "https://www.xyncagent.ai/",
+  "github": {
+    "repository": "XSIP-Builder-v17.3",
+    "url": "https://github.com/T3k13AI/XSIP-Builder-v17.3"
+  },
+  "governance": {
+    "last_updated": "2026-06-03",
+    "maintained_by": "XyncAgent.ai — Ray W"
+  }
+}
+
