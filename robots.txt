@@ -1,0 +1,24 @@
+ robots.txt for XyncAgent.ai
+ https://www.xyncagent.ai/
+
+User-agent: *
+Allow: /
+
+ Disallow admin and tracking paths
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*?*utm_*
+Disallow: /*?*ref=*
+
+ AI Discovery Files (GitHub Pages)
+ https://t3k13ai.github.io/XSIP-Builder-v17.3/llms.txt
+ https://t3k13ai.github.io/XSIP-Builder-v17.3/ai.txt
+ https://t3k13ai.github.io/XSIP-Builder-v17.3/manifest.json
+ https://t3k13ai.github.io/XSIP-Builder-v17.3/ai-wellknown.json
+
+ GitHub Repository
+ https://github.com/T3k13AI/XSIP-Builder-v17.3
+
+Last Updated: 2026-06-03
+Maintained by: XyncAgent.ai — Ray W
+
